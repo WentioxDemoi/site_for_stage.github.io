@@ -1,0 +1,96 @@
+/*************Projet Stage 2021*************/
+
+
+#c {
+    z-index: 2;
+    width: 80px;
+    position: absolute;
+    margin-left: 1700px;
+    margin-top: 20px;
+}
+
+#python {
+    z-index: 2;
+    width: 80px;
+    position: absolute;
+    margin-left: 1600px;
+    margin-top: 150px;
+}
+
+#html {
+    z-index: 2;
+    width: 80px;
+    position: absolute;
+    margin-left: 1550px;
+    margin-top: 30px;
+}
+
+#css {
+    z-index: 2;
+    width: 80px;
+    position: absolute;
+    margin-left: 1750px;
+    margin-top: 200px;
+}
+
+#js {
+    z-index: 2;
+    width: 80px;
+    position: absolute;
+    margin-left: 1480px;
+    margin-top: 220px;
+}
+
+@media screen and (max-width: 376px) {
+    #c {
+        z-index: 2;
+        width: 50px;
+        position: absolute;
+        margin-left: 20px;
+        margin-top: 185px;
+    }
+
+    #python {
+        z-index: 2;
+        width: 50px;
+        position: absolute;
+        margin-left: 90px;
+        margin-top: 185px;
+    }
+
+    #html {
+        z-index: 2;
+        width: 50px;
+        position: absolute;
+        margin-left: 160px;
+        margin-top: 185px;
+    }
+
+    #css {
+        z-index: 2;
+        width: 36px;
+        position: absolute;
+        margin-left: 230px;
+        margin-top: 185px;
+    }
+
+    #js {
+        z-index: 2;
+        width: 35px;
+        position: absolute;
+        margin-left: 295px;
+        margin-top: 193px;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+
+    #c {
+        z-index: 2;
+        width: 50px;
+        position: absolute;
+        margin-left: 20px;
+        margin-top: 185px;
+    }
+
+}
