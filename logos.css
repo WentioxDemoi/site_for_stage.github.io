@@ -48,7 +48,7 @@
         width: 10%;
         position: absolute;
         margin-left: 15%;
-        margin-top: 35%;
+        margin-top: 30vh;
     }
 
     #python {
@@ -56,7 +56,7 @@
         width: 10%;
         position: absolute;
         margin-left: 30%;
-        margin-top: 35%;
+        margin-top: 30vh;
     }
 
     #html {
@@ -64,7 +64,7 @@
         width: 10%;
         position: absolute;
         margin-left: 45%;
-        margin-top: 35%;
+        margin-top: 30vh;
     }
 
     #css {
@@ -72,7 +72,7 @@
         width: 8%;
         position: absolute;
         margin-left: 60%;
-        margin-top: 35%;
+        margin-top: 30vh;
     }
 
     #js {
@@ -80,7 +80,7 @@
         width: 8%;
         position: absolute;
         margin-left: 75%;
-        margin-top: 37%;
+        margin-top: 32vh;
     }
 
 }
