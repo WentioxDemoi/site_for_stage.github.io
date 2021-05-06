@@ -60,6 +60,36 @@ body {
     color: black;
 }
 
+#BSQ {
+    border-radius: 15px;
+    overflow: hidden;
+    background: rgba(104,112,116,0.83);
+    margin-left: 42%;
+    margin-top: 240vh;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    border: 2px solid #565859;
+    z-index: 2;
+    color: black;
+}
+
+#SOKOBAN {
+    border-radius: 15px;
+    overflow: hidden;
+    background: rgba(104,112,116,0.83);
+    margin-left: 42%;
+    margin-top: 340vh;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    position: absolute;
+    border: 2px solid #565859;
+    z-index: 2;
+    color: black;
+}
+
 
 #banner {
     margin-top: 0;
